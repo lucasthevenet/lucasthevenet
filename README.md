@@ -31,4 +31,4 @@
 <br />
 <br />
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasthevenet)](https://github.com/lucasthevenet/github-readme-stats)
+<!-- [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasthevenet)](https://github.com/lucasthevenet/github-readme-stats) -->
