@@ -1,13 +1,10 @@
-### Hi there, I'm Lucas - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+### Hi there, I'm Lucas 👋
 
 ## I'm a Developer and a Student
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🕵️ I'm working on a secret project 🙊
+- 🎓 I’m currently studying Computer Science at the University of Buenos Aires
+- 👯 I'm looking for a job currently, If you see me as a good fit, check my [CV][curriculum]!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime and sci-fi movies!
 
@@ -52,3 +49,4 @@
 [twitter]: https://twitter.com/heyitsthevi
 [instagram]: https://instagram.com/saculgram
 [linkedin]: https://linkedin.com/in/lucasthevenet
+[curriculum]: https://drive.google.com/file/d/1GwpN5apv5hKFm-HaPQ4DtNOWQg2oZrBu/view?usp=sharing
