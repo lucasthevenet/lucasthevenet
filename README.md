@@ -4,8 +4,8 @@
 
 - 🕵️ I'm working on a secret project 🙊
 - 🎓 I’m currently studying Computer Science at the University of Buenos Aires
-- 👯 I'm looking for a job currently, If you see me as a good fit, check my [CV][curriculum]!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I'm currently Working at Santander Tecnologia!
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime and sci-fi movies!
 
 ### Connect with me:
